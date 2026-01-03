@@ -1,4 +1,12 @@
 # 📡 Happening Now — Platform Status
+<!-- ANNOUNCEMENTS:START -->
+
+<!-- ANNOUNCEMENTS:END -->
+
+
+👉 **View all announcements:**  
+
+[Previous Announcements](https://github.com/ReyWins/happeningnow-status/discussions/categories/announcements)
 
 ## <!--live status--> 🟩 All systems operational
 [![Uptime CI](https://github.com/ReyWins/happeningnow-status/actions/workflows/uptime.yml/badge.svg)](https://github.com/ReyWins/happeningnow-status/actions/workflows/uptime.yml)
