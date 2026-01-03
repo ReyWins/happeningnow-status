@@ -2,15 +2,27 @@ owner: ReyWins
 repo: happeningnow-status
 
 sites:
-  - name: Happening Now (Prod Site)
-    url: https://happening-now.netlify.app
+  - name: Happening Now (Main Site)
+    url: https://happeningnow.news
+
+  - name: Health – Core Runtime
+    url: https://happeningnow.news/api/healthz
+
+  - name: Provider – GDELT
+    url: https://happeningnow.news/api/health/gdelt
+
+  - name: Provider – NewsAPI.ai
+    url: https://happeningnow.news/api/health/newsapi-ai
+
+  - name: Provider – NewsMedia
+    url: https://happeningnow.news/api/health/newsmedia
 
 status-website:
   cname: status.happeningnow.news
   baseUrl: /
   name: Happening Now Status
   introTitle: "Happening Now Status"
-  introMessage: "Live uptime and incident reporting for Happening Now."
+  introMessage: "Live uptime and adapter availability for Happening Now."
   navbar:
     - title: Status
       href: /
