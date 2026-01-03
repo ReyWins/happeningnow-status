@@ -6,7 +6,8 @@ sites:
     url: https://happening-now.netlify.app
 
 status-website:
-  baseUrl: /happeningnow-status
+  cname: status.happeningnow.news
+  baseUrl: /
   name: Happening Now Status
   introTitle: "Happening Now Status"
   introMessage: "Live uptime and incident reporting for Happening Now."
