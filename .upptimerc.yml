@@ -15,6 +15,6 @@ status-website:
     - title: Status
       href: /
     - title: Main Site
-      href: https://happening-now.netlify.app
+      href: https://happeningnow.news
     - title: GitHub
       href: https://github.com/ReyWins/happeningnow-status
