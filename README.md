@@ -1,6 +1,6 @@
 # 📡 Happening Now — Platform Status
 <!-- ANNOUNCEMENTS:START -->
-
+_Latest announcements will appear here automatically._
 <!-- ANNOUNCEMENTS:END -->
 
 
