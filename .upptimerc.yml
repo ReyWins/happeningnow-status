@@ -10,12 +10,21 @@ sites:
 
   - name: Provider – GDELT
     url: https://happeningnow.news/api/health/gdelt
+    expectedStatusCodes:
+      - 200
+      - 204
 
-  - name: Provider – NewsAPI.ai
+  - name: Provider – NewsAPI.ai (Disabled)
     url: https://happeningnow.news/api/health/newsapi-ai
+    expectedStatusCodes:
+      - 200
+      - 204
 
-  - name: Provider – NewsMedia
+  - name: Provider – NewsMedia (Disabled)
     url: https://happeningnow.news/api/health/newsmedia
+    expectedStatusCodes:
+      - 200
+      - 204
 
 status-website:
   cname: status.happeningnow.news
