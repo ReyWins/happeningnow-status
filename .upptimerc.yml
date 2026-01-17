@@ -5,23 +5,29 @@ sites:
   - name: Happening Now (Main Site)
     url: https://happeningnow.news
 
-  - name: Health – Core Runtime
+  - name: Health - Core Runtime
     url: https://happeningnow.news/api/healthz
 
-  - name: Provider – GDELT
+  - name: Provider - GDELT
     url: https://happeningnow.news/api/health/gdelt
     expectedStatusCodes:
       - 200
       - 204
 
-  - name: Provider – NewsAPI.ai (Disabled)
+  - name: Provider - News API.ai
     url: https://happeningnow.news/api/health/newsapi-ai
     expectedStatusCodes:
       - 200
       - 204
 
-  - name: Provider – NewsMedia (Disabled)
+  - name: Provider - News Media
     url: https://happeningnow.news/api/health/newsmedia
+    expectedStatusCodes:
+      - 200
+      - 204
+
+  - name: Adapter - Bluesky
+    url: https://happeningnow.news/api/health/bluesky
     expectedStatusCodes:
       - 200
       - 204
