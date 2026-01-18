@@ -94,19 +94,19 @@
     "url": "https://happeningnow.news/api/health/bluesky",
     "icon": "https://icons.duckduckgo.com/ip3/happeningnow.news.ico",
     "slug": "adapter-bluesky",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 324,
-    "timeDay": 321,
-    "timeWeek": 324,
-    "timeMonth": 324,
-    "timeYear": 324,
+    "status": "up",
+    "uptime": "89.25%",
+    "uptimeDay": "87.60%",
+    "uptimeWeek": "89.25%",
+    "uptimeMonth": "89.25%",
+    "uptimeYear": "89.25%",
+    "time": 267,
+    "timeDay": 246,
+    "timeWeek": 267,
+    "timeMonth": 267,
+    "timeYear": 267,
     "dailyMinutesDown": {
-      "2026-01-18": 0
+      "2026-01-18": 179
     }
   }
 ]
