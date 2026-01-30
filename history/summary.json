@@ -4,10 +4,10 @@
     "url": "https://happeningnow.news",
     "icon": "https://icons.duckduckgo.com/ip3/happeningnow.news.ico",
     "slug": "happening-now-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 2116,
@@ -16,6 +16,7 @@
     "timeMonth": 2116,
     "timeYear": 2116,
     "dailyMinutesDown": {
+      "2026-01-30": 1,
       "2026-01-21": 23
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://happeningnow.news/api/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/happeningnow.news.ico",
     "slug": "health-core-runtime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -36,6 +37,7 @@
     "timeMonth": 1039,
     "timeYear": 1039,
     "dailyMinutesDown": {
+      "2026-01-30": 0,
       "2026-01-21": 23
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://happeningnow.news/api/health/gdelt",
     "icon": "https://icons.duckduckgo.com/ip3/happeningnow.news.ico",
     "slug": "provider-gdelt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
@@ -56,6 +58,7 @@
     "timeMonth": 168,
     "timeYear": 168,
     "dailyMinutesDown": {
+      "2026-01-30": 0,
       "2026-01-27": 18,
       "2026-01-22": 54,
       "2026-01-21": 22
@@ -66,9 +69,9 @@
     "url": "https://happeningnow.news/api/health/newsapi-ai",
     "icon": "https://icons.duckduckgo.com/ip3/happeningnow.news.ico",
     "slug": "provider-news-api-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
@@ -78,6 +81,7 @@
     "timeMonth": 240,
     "timeYear": 240,
     "dailyMinutesDown": {
+      "2026-01-30": 0,
       "2026-01-21": 22
     }
   },
@@ -86,9 +90,9 @@
     "url": "https://happeningnow.news/api/health/newsmedia",
     "icon": "https://icons.duckduckgo.com/ip3/happeningnow.news.ico",
     "slug": "provider-news-media",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -97,25 +101,28 @@
     "timeWeek": 160,
     "timeMonth": 171,
     "timeYear": 171,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-30": 0
+    }
   },
   {
     "name": "Adapter - Bluesky",
     "url": "https://happeningnow.news/api/health/bluesky",
     "icon": "https://icons.duckduckgo.com/ip3/happeningnow.news.ico",
     "slug": "adapter-bluesky",
-    "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.05%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
     "time": 261,
     "timeDay": 242,
     "timeWeek": 282,
     "timeMonth": 261,
     "timeYear": 261,
     "dailyMinutesDown": {
+      "2026-01-30": 0,
       "2026-01-18": 179
     }
   }
