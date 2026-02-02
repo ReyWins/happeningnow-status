@@ -4,30 +4,39 @@ repo: happeningnow-status
 sites:
   - name: Happening Now (Main Site)
     url: https://happeningnow.news
+    maxResponseTime: 10000
 
   - name: Health - Core Runtime
     url: https://happeningnow.news/api/healthz
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
 
+  # Providers/adapters: should be FAST and must NOT depend on fetching live stories
   - name: Provider - GDELT
     url: https://happeningnow.news/api/health/gdelt
+    maxResponseTime: 4000
     expectedStatusCodes:
       - 200
       - 204
 
   - name: Provider - News API.ai
     url: https://happeningnow.news/api/health/newsapi-ai
+    maxResponseTime: 4000
     expectedStatusCodes:
       - 200
       - 204
 
   - name: Provider - News Media
     url: https://happeningnow.news/api/health/newsmedia
+    maxResponseTime: 4000
     expectedStatusCodes:
       - 200
       - 204
 
   - name: Adapter - Bluesky
     url: https://happeningnow.news/api/health/bluesky
+    maxResponseTime: 4000
     expectedStatusCodes:
       - 200
       - 204
