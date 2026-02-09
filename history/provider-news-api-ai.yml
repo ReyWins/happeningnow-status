@@ -1,7 +1,7 @@
 url: https://happeningnow.news/api/health/newsapi-ai
-status: down
-code: 500
-responseTime: 23
-lastUpdated: 2026-02-09T18:33:08.597Z
+status: up
+code: 204
+responseTime: 150
+lastUpdated: 2026-02-09T20:26:35.407Z
 startTime: 2026-01-17T00:35:04.042Z
 generator: Upptime <https://github.com/upptime/upptime>
