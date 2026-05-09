@@ -41,6 +41,32 @@ sites:
       - 200
       - 204
 
+  - name: Adapter - Threads
+    url: https://www.threads.com/@happeningnownews
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+
+  - name: Social - Bluesky Profile
+    url: https://bsky.app/profile/happeningnow.news
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+
+  - name: Shortlink - HNOW Live
+    url: https://hnow.live
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+
+  - name: Health - Core Build Info
+    url: https://happeningnow.news/api/build-info
+    maxResponseTime: 4000
+    expectedStatusCodes:
+      - 200
+
 status-website:
   cname: status.happeningnow.news
   baseUrl: /
