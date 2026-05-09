@@ -1,7 +1,7 @@
 url: https://happeningnow.news/api/health/newsmedia
-status: up
-code: 204
-responseTime: 113
-lastUpdated: 2026-05-09T03:30:58.378Z
+status: down
+code: 503
+responseTime: 58
+lastUpdated: 2026-05-09T23:32:39.031Z
 startTime: 2026-01-17T00:35:04.788Z
 generator: Upptime <https://github.com/upptime/upptime>
