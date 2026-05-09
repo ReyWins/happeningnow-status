@@ -41,7 +41,7 @@ sites:
       - 200
       - 204
 
-  - name: Adapter - Threads
+  - name: Social - Threads Profile
     url: https://www.threads.com/@happeningnownews
     maxResponseTime: 10000
     expectedStatusCodes:
