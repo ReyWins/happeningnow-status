@@ -1,7 +1,7 @@
 url: https://happeningnow.news/api/health/gdelt
-status: up
-code: 200
-responseTime: 207
-lastUpdated: 2026-05-30T00:15:12.322Z
+status: down
+code: 503
+responseTime: 391
+lastUpdated: 2026-05-30T09:26:52.704Z
 startTime: 2026-01-03T20:09:13.414Z
 generator: Upptime <https://github.com/upptime/upptime>
