@@ -13,7 +13,7 @@
     "time": 2080,
     "timeDay": 545,
     "timeWeek": 817,
-    "timeMonth": 1035,
+    "timeMonth": 995,
     "timeYear": 2080,
     "dailyMinutesDown": {
       "2026-01-21": 23,
@@ -36,7 +36,7 @@
     "time": 815,
     "timeDay": 68,
     "timeWeek": 150,
-    "timeMonth": 184,
+    "timeMonth": 185,
     "timeYear": 815,
     "dailyMinutesDown": {
       "2026-01-21": 23,
@@ -51,15 +51,15 @@
     "url": "https://happeningnow.news/api/health/gdelt",
     "icon": "https://icons.duckduckgo.com/ip3/happeningnow.news.ico",
     "slug": "provider-gdelt",
-    "status": "up",
-    "uptime": "95.61%",
+    "status": "down",
+    "uptime": "95.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.61%",
+    "uptimeYear": "95.63%",
     "time": 202,
-    "timeDay": 184,
-    "timeWeek": 212,
+    "timeDay": 234,
+    "timeWeek": 221,
     "timeMonth": 202,
     "timeYear": 202,
     "dailyMinutesDown": {
@@ -107,7 +107,7 @@
     "time": 180,
     "timeDay": 163,
     "timeWeek": 118,
-    "timeMonth": 173,
+    "timeMonth": 170,
     "timeYear": 180,
     "dailyMinutesDown": {
       "2026-01-21": 22,
@@ -152,7 +152,7 @@
     "time": 368,
     "timeDay": 190,
     "timeWeek": 355,
-    "timeMonth": 311,
+    "timeMonth": 313,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2026-01-18": 179,
@@ -178,7 +178,7 @@
     "time": 489,
     "timeDay": 462,
     "timeWeek": 447,
-    "timeMonth": 464,
+    "timeMonth": 458,
     "timeYear": 489,
     "dailyMinutesDown": {}
   },
@@ -196,7 +196,7 @@
     "time": 283,
     "timeDay": 231,
     "timeWeek": 289,
-    "timeMonth": 336,
+    "timeMonth": 333,
     "timeYear": 283,
     "dailyMinutesDown": {}
   },
@@ -214,7 +214,7 @@
     "time": 334,
     "timeDay": 200,
     "timeWeek": 309,
-    "timeMonth": 297,
+    "timeMonth": 300,
     "timeYear": 334,
     "dailyMinutesDown": {}
   },
@@ -232,7 +232,7 @@
     "time": 185,
     "timeDay": 215,
     "timeWeek": 133,
-    "timeMonth": 191,
+    "timeMonth": 193,
     "timeYear": 185,
     "dailyMinutesDown": {}
   }
