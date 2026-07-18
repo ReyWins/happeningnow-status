@@ -1,7 +1,7 @@
 url: https://happeningnow.news/api/health/bluesky
-status: down
-code: 503
-responseTime: 453
-lastUpdated: 2026-07-18T07:22:57.406Z
+status: up
+code: 200
+responseTime: 593
+lastUpdated: 2026-07-18T23:07:28.395Z
 startTime: 2026-01-17T00:35:05.363Z
 generator: Upptime <https://github.com/upptime/upptime>
