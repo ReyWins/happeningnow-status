@@ -187,7 +187,7 @@
     "url": "https://bsky.app/profile/happeningnow.news",
     "icon": "https://icons.duckduckgo.com/ip3/bsky.app.ico",
     "slug": "social-bluesky-profile",
-    "status": "degraded",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
